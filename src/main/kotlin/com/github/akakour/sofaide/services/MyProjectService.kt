@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.akakour.sofaide.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.akakour.sofaide.MyBundle
 
 class MyProjectService(project: Project) {
 

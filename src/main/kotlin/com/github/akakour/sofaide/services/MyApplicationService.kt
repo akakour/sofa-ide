@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.akakour.sofaide.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.akakour.sofaide.MyBundle
 
 class MyApplicationService {
 
